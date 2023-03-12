@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 I am a web software engineer and Angular trainer from France
-- 🔭 I’m currently working on multiple frontend and backend projects using Angular and Nodejs
-- 🌱 I’m currently learning VueJS (with Vite)
-<br>
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/benjamin-barbier-%F0%9F%A6%84-a0279414/)
